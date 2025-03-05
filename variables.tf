@@ -1,7 +1,7 @@
 variable "rgname" {
     type = string
     description = "used for naming resource group"
-    default = "rg2"
+    
   
 }
 
